@@ -1,1 +1,1 @@
-# bin-dec
+# program to convert bin-dec
